@@ -12,7 +12,7 @@
 
 	<!-- Header Content -->
 	<div class="content">
-		<h2>배그핵 서든핵 옵치핵 , 국내 최저가 게임핵, 24시간 고객센터 운영중
+		<h2>배그핵 서든핵 옵치핵 국내 최저가 판매중
 		</h2>
 		
 			<a href="https://noonoo40.tv" style="cursor: not-allowed;"><strong>핵마켓 바로가기</strong></a>
