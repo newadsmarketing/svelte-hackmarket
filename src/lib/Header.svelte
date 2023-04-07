@@ -71,7 +71,7 @@
 	}
 
 	img {
-		height: 35em;
+		height: 30em;
 	}
 
 	@media screen and (max-width: 900px) {
