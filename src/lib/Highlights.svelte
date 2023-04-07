@@ -12,7 +12,7 @@
 
 	<!-- Open Source -->
 	<div class="openSource">
-		<img src="/images/integrations.svg" alt="Open Source">
+		<img src="/images/battle.jpg" alt="Open Source">
 		<div class="content right">
 			<h3>배그핵</h3>
 			<span>#아이템 ESP [ 아이콘 / 텍스터]
@@ -131,12 +131,12 @@
 메두사
 무기변경 </span>
 		</div>
-		<img src="/images/safe.svg" alt="Privacy">
+		<img src="/images/sudden.jpg" alt="Privacy">
 	</div>
 
 	<!-- Devices -->
 	<div class="devices">
-		<img src="/images/compatibility.svg" alt="Devices">
+		<img src="/images/overwatch.jpg" alt="Devices">
 		<div class="content right">
 			<h3>옵치핵</h3>
 			<span>
