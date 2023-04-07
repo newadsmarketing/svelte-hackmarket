@@ -12,21 +12,15 @@
 
 	<!-- Header Content -->
 	<div class="content">
-		<h2>The open&#8209;source, multi&#8209;chain DeFi portfolio tracker</h2>
-		{#if launched}
-			<span>Try out WeaverFi for free today</span>
-			<a href="{appLink}">
-				<strong>Go to App</strong>
-				<i class="icofont-arrow-right" />
-			</a>
-		{:else}
-			<span></span>
-			<a href="/" style="cursor: not-allowed;"><strong>Coming Soon</strong></a>
-		{/if}
+		<h2>배그핵 서든핵 옵치핵 , 국내 최저가 게임핵, 24시간 고객센터 운영중
+		</h2>
+		
+			<a href="https://noonoo40.tv" style="cursor: not-allowed;"><strong>핵마켓 바로가기</strong></a>
+		
 	</div>
 
 	<!-- Weavey -->
-	<img src="/images/happyWeavey.svg" alt="Happy Weavey">
+	<img src="/images/happyWeavey.svg" alt="hackmarket-logo">
 
 </section>
 

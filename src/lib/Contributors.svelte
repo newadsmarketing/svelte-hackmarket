@@ -8,40 +8,7 @@
 
 <!-- #################################################################################################### -->
 
-<section>
 
-	<!-- Weavey -->
-	<img src="/images/readingWeavey.svg" alt="Reading Weavey">
-
-	<!-- Content -->
-	<div class="content">
-
-		<!-- Title -->
-		<h2>Want to join us in growing our web?</h2>
-	
-		<!-- SDK -->
-		<div>
-			<h3>Contribute to our open&#8209;source SDK</h3>
-			<span>Adding support for new blockchains, projects or tokens has never been easier.</span>
-			<a href="{contributeLink}" target="__blank">
-				<strong>Contribute</strong>
-				<i class="icofont-arrow-right" />
-			</a>
-		</div>
-	
-		<!-- Discord -->
-		<div>
-			<h3>Chat with us on Discord</h3>
-			<span>Want to discuss DeFi events? Suggest improvements to the platform? This is the place to be.</span>
-			<a href="{discordLink}" target="__blank">
-				<strong>Join the chat</strong>
-				<i class="icofont-arrow-right" />
-			</a>
-		</div>
-
-	</div>
-	
-</section>
 
 <!-- #################################################################################################### -->
 

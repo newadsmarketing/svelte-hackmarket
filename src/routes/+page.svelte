@@ -30,8 +30,8 @@
 
 <!-- SvelteKit Dynamic Header -->
 <svelte:head>
-	<title>WeaverFi</title>
-	<meta name="description" content="The open-source, multi-chain DeFi portfolio tracker." />
+	<title>핵마켓</title>
+	<meta name="description" content="배그핵마켓, 서든핵마켓, 옵치핵마켓, 게임핵마켓, 배틀그라운드 핵, 서든어택 핵, 오버워치핵, 바디샷, 월핵, esp " />
 </svelte:head>
 
 <!-- Window Bindings -->

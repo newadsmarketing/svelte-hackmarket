@@ -28,7 +28,7 @@
 	<TokenWeb />
 
 	<!-- Title -->
-	<h2>Unrivaled scalability throughout the DeFi ecosystem</h2>
+	<h2>핵마켓 이용자 현황</h2>
 
 	<!-- Content -->
 	<div class="content">
@@ -37,15 +37,15 @@
 		<div class="numbers">
 			<div>
 				<span class="value">{chainCount}</span>
-				<span class="label">chains</span>
+				<span class="label">현재 접속자수</span>
 			</div>
 			<div>
 				<span class="value">{projectCount}</span>
-				<span class="label">defi projects</span>
+				<span class="label">실시간 구매자</span>
 			</div>
 			<div>
 				<span class="value">{tokenCount}</span>
-				<span class="label">tokens tracked</span>
+				<span class="label">실시간 방문자</span>
 			</div>
 		</div>
 
