@@ -43,7 +43,7 @@
 	}
 
 	div.content > h2 {
-		font-size: 20px;
+		font-size: 24px;
 	}
 
 	div.content > span {
