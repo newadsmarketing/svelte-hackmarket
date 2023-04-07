@@ -20,7 +20,7 @@
 	</div>
 
 	<!-- Weavey -->
-	<img src="/images/happyWeavey.svg" alt="hackmarket-logo">
+	<img src="/images/main.jpg" alt="hackmarket-logo">
 
 </section>
 
