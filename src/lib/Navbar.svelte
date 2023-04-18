@@ -14,7 +14,7 @@
 
 	<!-- WeaverFi Branding -->
 	<div class="brand" on:click={() => window.scrollTo({ top: 0, behavior: 'smooth' })} on:keydown={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
-		<img src="/images/weavey.png" alt="Weavey">
+		<img src="/images/logo.png" alt="logo">
 		<h1>핵마켓</h1>
 	</div>
 
